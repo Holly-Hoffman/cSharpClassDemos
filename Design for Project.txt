@@ -1,0 +1,40 @@
+1) Entities:
+Street address
+City
+State
+Zip
+Person Fname
+Person Lname
+Company name
+$/hr OR annual Salary
+hours worked
+invoice due
+
+Proposed class(es)
+1) Entity:
+-CompanyName (?) [not sure if contractors have this for our example]
+-StreetAddress
+-City
+-State
+-Zip
+
+2) Employee : Entity
+-EmployeeId
+-Title
+-FName
+-LName
+
+3) HourlyEmp : Employee, HourlyPay
+-IsExternal
+
+4) SalaryEmp : Employee
+-Salary
+
+5) Vendor : Entity
+-InvoiceDue
+
+
+Proposed Interface(s)
+1) HourlyPay
+-HoursWorked
+-HourlyWage

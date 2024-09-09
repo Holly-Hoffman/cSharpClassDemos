@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bmdbManager", "bmdbManager\bmdbManager.csproj", "{9759DD69-5763-4CE8-9BA7-388BB8C4CBC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9759DD69-5763-4CE8-9BA7-388BB8C4CBC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9759DD69-5763-4CE8-9BA7-388BB8C4CBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9759DD69-5763-4CE8-9BA7-388BB8C4CBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9759DD69-5763-4CE8-9BA7-388BB8C4CBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7258DB90-E290-4A9C-99AB-62A27697C229}
+	EndGlobalSection
+EndGlobal
