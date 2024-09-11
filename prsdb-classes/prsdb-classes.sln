@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prsdb-classes", "prsdb-classes\prsdb-classes.csproj", "{10C7E261-DE43-4A2F-B7D1-E34EB28363DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C7E261-DE43-4A2F-B7D1-E34EB28363DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C7E261-DE43-4A2F-B7D1-E34EB28363DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C7E261-DE43-4A2F-B7D1-E34EB28363DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C7E261-DE43-4A2F-B7D1-E34EB28363DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {005543D5-CA1E-4B00-9783-C7C0940C0E80}
+	EndGlobalSection
+EndGlobal
