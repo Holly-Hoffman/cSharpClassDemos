@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateLab", "ChocolateLab\ChocolateLab.csproj", "{61465FE3-C72F-4BE2-9DFC-21E1B1327A1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61465FE3-C72F-4BE2-9DFC-21E1B1327A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61465FE3-C72F-4BE2-9DFC-21E1B1327A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61465FE3-C72F-4BE2-9DFC-21E1B1327A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61465FE3-C72F-4BE2-9DFC-21E1B1327A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E400A67-AA5A-439D-BD6F-B292D1762D13}
+	EndGlobalSection
+EndGlobal
